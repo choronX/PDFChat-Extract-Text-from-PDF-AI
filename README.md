@@ -1,4 +1,4 @@
-# PDFChat
+# PDFChat: AI like Chatpdf but smarter
 
 The PDFChat app allows you to chat with your PDF files using the power of langchain, OpenAI Embeddings, and GPT3.5 in the backend. 
 It uses Streamlit for the user interface.
